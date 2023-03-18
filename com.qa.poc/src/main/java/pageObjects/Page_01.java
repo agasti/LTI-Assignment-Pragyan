@@ -6,7 +6,6 @@ import org.openqa.selenium.WebElement;
 
 public class Page_01 {
 
-
 	public WebElement button(WebDriver driver) {
 		return driver.findElement(By.id(""));
 	}
