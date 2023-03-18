@@ -8,6 +8,8 @@ Under Maven build/Main - Name is given as Pragya-Maven-run.
  Goals- clean test
  click on Run
  
+ For reports please check inside target folder under cucumber reports.
+ 
  Note - For the step 1 the borrowing estimate is showing different amount in the production url provided as $419,000 different than than the one that is provided to me in the assignment document i.e $479,000. 
 
 
